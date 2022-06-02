@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="img/png" href="logo.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <title>StudBud |Dashboard</title>
+</head>
+<body>
+ <!-- Header -->
+ <header>
+  <div class="container">
+    <nav id="nav">
+      <a href="index.html"><img src="logo.png" alt="LOGO" id="logo"></a>
+      <ul>
+        <li><a href="#">Hey Vasavi!</a></li>
+        <img src="/images/user.png" alt="UserLogo" id="user_icon">
+      </ul>
+    </nav>
+    </div>
+  </header>
+  <div class="container_dashboard">
+    <div class="row">
+      <div>
+        <div id="main">
+
+          <div>
+            <h2 id="listheading">Task List</h2>
+            <div class="row">
+
+              <form id="task-form">
+
+                <div class="input-field  task ">
+                  <label for="task">Task</label>
+                  <input type="text" name="task" id="task">
+                </div>
+
+                <div class="input-field duedate">
+                  <label for="task">Due Date</label>
+                  <input type="text" name="duedate" id="duedate">
+                </div>
+
+                <div class="input-field  estimatetime">
+                  <label for="task">Estimated Hours</label>
+                  <input type="text" name="Time" id="estimatetime">
+                </div>
+
+                <div class="input-field priority">
+                  <label for="task">Priority (Low/ Med/ High)</label>
+                  <input type="text" name="Priority" id="priority">
+                </div>
+
+                <div class="submit">
+                  <input type="submit" value="Add Task" class="btn-submit">
+                </div>
+                
+              </form>
+
+            </div>
+          </div>
+
+          <div>
+
+            <h2 id="card-title">Tasks</h2>
+
+            <div class="filtering-responses">
+
+            <div class="input-field filtertask">
+              <label class="filter" for="filter">Filter Tasks</label>
+              <input type="text" name="filter" id="filter">
+            </div>
+
+            <div class="input-field filterpriority">
+              <label class="filter" for="filter">Filter Priority</label>
+              <input type="text" name="filter" id="filter-priority">
+            </div>
+
+            </div>
+
+            <table class="collection"></table>
+            <a href="#" class="clear-tasks">Clear all tasks</a>
+
+          </div>
+
+          <div>
+            <a href="music.html"><img src="/images/sound-button.png" id="user_icon" alt="musicplayer"></a>
+            <a href="timer.html"><img src="/images/stopwatch.png" id="user_icon" alt="timer"></a>
+          </div>
+
+        </div>
+      </div>
+    </div>  
+    <div>
+      <img src="/images/calander.PNG" alt="">
+    </div>  
+  </div>
+
+
+
+  <script src="calander.js"></script>
+</body>
+</html>  
