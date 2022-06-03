@@ -4,6 +4,7 @@
 This website is a prototype of studBud a web application designed to help uni students with their assigments and tasks. 
 
 ## Itrations and improvements to the design to make it more user friendly 
+The first start was to look at the figma prototype and create the links between the different webpages to understand the flow of the web app. Then I organized the different part and features of the webapp in terms of the diffrent pages needed. Some improvements to the design were made at this time. Point one being the nav bar of the home page the home button was removed and the icon was made into the button. Next the design proposed the use of pop ups for the timmers and the list which I thought after much considration would not be the that user friendly and my be distracting and chnaged the design so that the icons for the music and timer were present on the dashboard and when clicked would take the user to the new page with only that feature. This make the flow of the app much better and helped break down the steps into manageable parts. Apart from this one more additonal feature was added of filtering the task list by alphabate . 
 
 ## Implimentation of the proposed design and meeting the brief 
 Main features offered by the app: 
