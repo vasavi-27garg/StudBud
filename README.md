@@ -19,3 +19,15 @@ Main features offered by the app:
 
 ## Refferences 
 
+### Asesstes 
+#### Audio Files 
+
+#### Images 
+
+#### Icons 
+
+#### Fonts 
+
+#### Youtube videos used for touble shooting and help 
+
+
