@@ -1,5 +1,5 @@
-# StudBud
-## A3: Web App Prototype (vgar0172)
+# StudBud Vasavi Garg (vagr0172) 
+## A3: Web App Prototype (DECO2017)
 
 This website is a prototype of studBud a web application designed to help uni students with their assigments and tasks. 
 
@@ -23,9 +23,12 @@ As the task variable had 4 objects so it was a challange to find the node of pri
 
 ### Asesstes 
 #### Audio Files 
-
+Sebastian Winskog (royalty free). The Autumn. Retrieved from https://www.epidemicsound.com/
+Kim Aspen (royalty free) Forever and A Day. Retrieved from https://www.epidemicsound.com/
+Daniel Kaede (royalty free) Memories of sarah. Retrieved from https://www.epidemicsound.com/
 #### Images 
-
+All images used in the website are from pexels (apart from the logo which is selfmade on figma) 
+Pexels. https://www.pexels.com/. 
 #### Icons 
 
 #### Fonts 
