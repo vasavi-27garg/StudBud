@@ -27,12 +27,20 @@ As the task variable had 4 objects so it was a challange to find the node of pri
 * Kim Aspen (royalty free) Forever and A Day. Retrieved from https://www.epidemicsound.com/
 * Daniel Kaede (royalty free) Memories of sarah. Retrieved from https://www.epidemicsound.com/
 #### Images 
-All images used in the website are from pexels (apart from the logo which is selfmade on figma) 
+*All images used in the website are from pexels (apart from the logo which is selfmade on figma) 
 Pexels. https://www.pexels.com/. 
-#### Icons 
-
-#### Fonts 
+#### Icons and Icons
+*https://fonts.google.com/icons
+*https://fontawesome.com/icons/gear?s=solid  
 
 #### Youtube videos used for touble shooting and help 
 
-
+*https://www.softwaretestinghelp.com/windows-cmd-commands/
+*https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
+*https://www.udemy.com/course/modern-html-css-from-the-beginning/learn/lecture/13285662#overview
+*https://www.youtube.com/watch?v=eRTe4uaiSpc
+*https://www.loginradius.com/blog/engineering/animating-simple-css-popup-tutorial/
+*https://www.youtube.com/watch?v=x7WJEmxNlEs
+*https://www.youtube.com/watch?v=PIiMSMz7KzM
+*https://www.youtube.com/watch?v=ykuD2QOZkhc
+*https://www.youtube.com/watch?v=eRTe4uaiSpc
