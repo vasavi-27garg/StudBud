@@ -33,14 +33,14 @@ Pexels. https://www.pexels.com/.
 * https://fonts.google.com/icons
 * https://fontawesome.com/icons/gear?s=solid  
 
-#### Youtube videos used for touble shooting and help 
+#### Website articles/ tutorials/ Youtube videos used for touble shooting and help 
 
-* https://www.softwaretestinghelp.com/windows-cmd-commands/
-* https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
-* https://www.udemy.com/course/modern-html-css-from-the-beginning/learn/lecture/13285662#overview
-* https://www.youtube.com/watch?v=eRTe4uaiSpc
-* https://www.loginradius.com/blog/engineering/animating-simple-css-popup-tutorial/
-* https://www.youtube.com/watch?v=x7WJEmxNlEs
-* https://www.youtube.com/watch?v=PIiMSMz7KzM
-* https://www.youtube.com/watch?v=ykuD2QOZkhc
-* https://www.youtube.com/watch?v=eRTe4uaiSpc
+* “Windows CMD Commands: Basic CMD PROMPT Commands List.” Software Testing Help, 25 May 2022, https://www.softwaretestinghelp.com/windows-cmd-commands/. 
+* jampez77jampez77 4, et al. “How to Upload a Project to Github.” Stack Overflow, 1 June 1960, https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github. 
+* Traversy, Brad. “Modern HTML &amp; CSS from the Beginning (Including SASS).” Udemy, Udemy, https://www.udemy.com/course/modern-html-css-from-the-beginning/. 
+* “Intro to JavaScript Audio Effects on Webpages.” YouTube, YouTube, 14 July 2018, https://www.youtube.com/watch?v=eRTe4uaiSpc. 
+* “Animate the Modal Popup Using CSS: Loginradius Blog.” Loginradius, https://www.loginradius.com/blog/engineering/animating-simple-css-popup-tutorial/. 
+* “Simple Countdown Timer with Javascript - Day 21.” YouTube, YouTube, 21 Jan. 2020, https://www.youtube.com/watch?v=x7WJEmxNlEs. 
+* “How to Build a Countdown Timer in JavaScript - Easy Project.” YouTube, YouTube, 27 Sept. 2021, https://www.youtube.com/watch?v=PIiMSMz7KzM. 
+* “Todo List Using HTML CSS &amp; Javascript | Todo List in JavaScript.” YouTube, YouTube, 14 Dec. 2020, https://www.youtube.com/watch?v=ykuD2QOZkhc. 
+* “Intro to JavaScript Audio Effects on Webpages.” YouTube, YouTube, 14 July 2018, https://www.youtube.com/watch?v=eRTe4uaiSpc. 
