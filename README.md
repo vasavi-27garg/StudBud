@@ -5,16 +5,13 @@ This website is a prototype of studBud a web application designed to help uni st
 
 ## Itrations and improvements to the design to make it more user friendly 
 
-## Implimentation of the proposed design 
+## Implimentation of the proposed design and meeting the brief 
 Main features offered by the app: 
 1. **Todo list**: Create a todo list where users can input there task and deadline details i 
 2. **Create an automated priorty list**: User should be able to filter the list by priority and by doing so they should be able to only see high or med or low priority tasks according to the filter they choose. 
-3. **Pomodoro timer**: 
-4. **music player**: 
+3. **Pomodoro timer**: Create a timer which has pre-set timers for work and break 
+4. **music player**: A beautiful music player which plays from the selection of muisc files avalible
 5. **A smooth and easy to follow UI**: Users should be able to follow and find all the buttons with ease and know what actions to take on the page 
-
-## Making Sure the deisgn is relivent to the design Brief 
-
 
 ## Sruggles >_<
 1. While working on the creating connecting the calander and the list it was espesicaly 
