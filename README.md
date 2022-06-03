@@ -23,9 +23,9 @@ As the task variable had 4 objects so it was a challange to find the node of pri
 
 ### Asesstes 
 #### Audio Files 
-Sebastian Winskog (royalty free). The Autumn. Retrieved from https://www.epidemicsound.com/
-Kim Aspen (royalty free) Forever and A Day. Retrieved from https://www.epidemicsound.com/
-Daniel Kaede (royalty free) Memories of sarah. Retrieved from https://www.epidemicsound.com/
+* Sebastian Winskog (royalty free). The Autumn. Retrieved from https://www.epidemicsound.com/
+* Kim Aspen (royalty free) Forever and A Day. Retrieved from https://www.epidemicsound.com/
+* Daniel Kaede (royalty free) Memories of sarah. Retrieved from https://www.epidemicsound.com/
 #### Images 
 All images used in the website are from pexels (apart from the logo which is selfmade on figma) 
 Pexels. https://www.pexels.com/. 
